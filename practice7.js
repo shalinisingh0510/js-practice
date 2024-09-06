@@ -1,0 +1,2 @@
+//Write a function reverseString that takes a string and returns it in reverse order.4
+7//.Question: Create a function isString that checks if a given input is a string. It should return true if the input is a string and false otherwise.
